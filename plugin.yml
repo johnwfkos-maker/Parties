@@ -1,0 +1,10 @@
+name: PartySystem
+version: 1.0.0
+api: 5.0.0
+main: PartySystem\Main
+author: ChatGPT
+
+commands:
+  party:
+    description: Party system command
+    usage: "/party <create|invite|accept|leave|list>"
